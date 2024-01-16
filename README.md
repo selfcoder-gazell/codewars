@@ -1,6 +1,8 @@
 This is a repo of my codewars. 
 
 BELOW IS - HOW I CREATED THIS REPO:
+I created a new repository in git hub and then followed the below steps. 
+
 
 command line:
 PS C:\Users\kveta\Documents\CODing\projects> ls
