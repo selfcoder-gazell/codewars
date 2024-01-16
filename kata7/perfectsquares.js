@@ -4,6 +4,6 @@
 //If not, simply return "Not a perfect square!".
 
 function squareIt(int) {
-    
-	return 'Not a perfect square!';
+   
+    return 'Not a perfect square!';
 }
