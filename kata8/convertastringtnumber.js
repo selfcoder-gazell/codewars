@@ -15,3 +15,11 @@ const stringToNumber = function(str){
         return inputStr;
     }
   };
+ console.log(stringToNumber("awesome"));
+
+// results of the console:
+//  PS C:\Users\kveta\Documents\CODing\projects\codewars> node .\kata8\convertastringtnumber.js
+// 123
+// PS C:\Users\kveta\Documents\CODing\projects\codewars> node .\kata8\convertastringtnumber.js
+// null
+// PS C:\Users\kveta\Documents\CODing\projects\codewars>
